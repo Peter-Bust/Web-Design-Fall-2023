@@ -1,0 +1,81 @@
+h1{
+    color: saddlebrown;
+}
+h3{
+    text-transform: uppercase;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: beige;
+    background-image:url("doctor.jpg");
+}
+a{
+    font-size: 16px;
+    font-style: italic;
+}
+p{
+    text-align: right;
+}
+header{
+    border-style: solid;
+    background-color: beige;
+    border-color: saddlebrown;
+}
+main{
+    background-color: beige;
+    height: 80%;
+    width: 70%;
+    margin: 15px;
+    padding: 10px;
+    min-height: 600px;
+    color: saddlebrown;
+    border-style: solid;
+    border-style: double;
+}
+footer{
+    background-color: beige;
+    margin: 50px;
+    padding: 10px;
+}
+.job-title{
+    font-weight: bold;
+    color: maroon;
+}
+.large-list{
+    font-size: 25px;
+    font-weight: bold;
+}
+li+ul{
+    font-size: 18px;
+    font-weight: normal;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: saddlebrown;
+    border-width: 5px;
+    border-style: solid;
+    transition: 1s;
+    
+}
+img:hover{
+    height: 400px;
+    width: 400px;
+}
+.pic1{
+    border-radius: 50%;
+}
+.pic2{
+    opacity: 0.5;
+}
+#pic1:hover{
+    width: 400px;
+    height: 400px;
+    rotate: 500000deg;
+    transition: 
+    width 1s,
+    height 1s,
+    rotate 1s;
+}

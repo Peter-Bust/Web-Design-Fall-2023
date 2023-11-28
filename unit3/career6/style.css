@@ -1,0 +1,48 @@
+h3{
+    text-transform: uppercase;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: beige;
+    background-image:url("doctor.jpg");
+}
+a{
+    font-size: 16px;
+    font-style: italic;
+}
+p{
+    text-align: right;
+}
+header{
+    border-style: solid;
+    background-color: beige;
+}
+main{
+    background-color: beige;
+    height: 80%;
+    width: 70%;
+}
+footer{
+    background-color: beige;
+}
+.job-title{
+    font-weight: bold;
+    color: maroon;
+}
+.large-list{
+    font-size: 25px;
+    font-weight: bold;
+}
+li+ul{
+    font-size: 18px;
+    font-weight: normal;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: black;
+    border-width: 5px;
+    border-style: solid;
+}
