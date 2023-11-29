@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+.subheader{
+    font-style: italic;
+}
+h2{
+    color: mediumblue;
+}
+h3{
+    color: darkgoldenrod;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: black;
+}
+img{
+    border-style: groove;
+}

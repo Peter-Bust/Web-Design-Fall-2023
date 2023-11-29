@@ -1,0 +1,15 @@
+.header{
+    background-color: olivedrab;
+    color: white;
+    text-align: center;
+}
+.odd{
+    background-color: sandybrown;
+}
+.even{
+    background-color: indianred;
+}
+table{
+    width: 100%;
+    font-family: Helvetica;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: #FFD1AA;
+    font-size: 18px;
+}
+h1{
+    color: #003333;
+}
+h2{
+    color: #162955;
+}
+.scientific-name{
+    font-style: italic;
+}
+#bor{
+    border-style: dashed;
+}
+#bor1{
+    border-style: groove;
+}
+#bor2{
+    border-style: double;
+}
+.endangered{
+    color: red;
+}
+.threatened{
+    color: orangered;
+}
