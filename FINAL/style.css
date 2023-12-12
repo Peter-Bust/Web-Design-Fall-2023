@@ -1,0 +1,35 @@
+header{
+    background-color: darkblue;   
+    border-style: solid;
+    border-color: black;
+}
+h1{
+    color: yellow;
+}
+.text-muted{
+    color: black;
+}
+main{ 
+    background-color: darkblue;
+    height: 80%;
+    width: 70%;
+    margin: 15px;
+    padding: 10px;
+    color: yellow;
+    border-style: solid;
+    border-style: double;
+    border-color: black;
+}
+.cover{
+    margin: 3%;
+    background-size: cover;
+    background-image:url("ninja.jpg");
+}
+img{
+    border-radius: 100%;
+    border-color: darkblue;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    background-size: ;
+}
