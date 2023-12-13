@@ -2,6 +2,7 @@ header{
     background-color: darkblue;   
     border-style: solid;
     border-color: black;
+    margin-top: 12%;
 }
 h1{
     color: yellow;
@@ -15,6 +16,7 @@ main{
     width: 70%;
     margin: 15px;
     padding: 10px;
+    margin-top: 25%;
     color: yellow;
     border-style: solid;
     border-style: double;
@@ -27,9 +29,19 @@ main{
 }
 img{
     border-radius: 100%;
-    border-color: darkblue;
     height: 100px;
     width: 100px;
+    
+}
+.backblack{
     background-color: white;
-    background-size: ;
+}
+.border{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+}
+.border2{
+    border-color: darkblue;
+    border-style: solid;
 }
