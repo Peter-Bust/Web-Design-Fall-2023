@@ -45,3 +45,10 @@ img{
     border-color: darkblue;
     border-style: solid;
 }
+button{
+    width: 100%;
+}
+table{
+    border-style: solid;
+    border-color: black;
+}
