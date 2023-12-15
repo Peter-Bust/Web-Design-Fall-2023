@@ -51,4 +51,15 @@ button{
 table{
     border-style: solid;
     border-color: black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
+th{
+    color: darkblue;
+    background-color: yellow;
+}
+table:hover{
+    size: 2000px;
+}
+
